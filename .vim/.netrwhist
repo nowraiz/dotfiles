@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/pseudo/Documents/Research/RL/UBITect/programs/vim/src/objects'
+let g:netrw_dirhist_7='/home/pseudo/Documents/Research/RL/UBITect/KLEE/build'
+let g:netrw_dirhist_6='/home/pseudo/.config/polybar'
+let g:netrw_dirhist_5='/home/pseudo/.config/fish/conf.d'
+let g:netrw_dirhist_4='/home/pseudo/.config/dunst'
+let g:netrw_dirhist_3='/home/pseudo/.config/polybar'
+let g:netrw_dirhist_2='/home/pseudo/.config/rofi'
+let g:netrw_dirhist_1='/home/pseudo/.config'
